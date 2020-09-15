@@ -25,7 +25,7 @@ import java.util.List;
  */
 public class SimpleExecutor implements Executor {
     @Override
-    public <E> List<E> query(Configuration configuration, MappedStatement mappedStatement, Object... params) throws SQLException, ClassNotFoundException, NoSuchFieldException, IllegalAccessException, IntrospectionException, InstantiationException, InvocationTargetException {
+    public <E> List<E> query(Configuration configuration, MappedStatement mappedStatement, Object... params) throws Exception {
         // 1.注册驱动，获取连接
         Connection connection = configuration.getDataSource().getConnection();
         // 2.获取sql语句并转换
