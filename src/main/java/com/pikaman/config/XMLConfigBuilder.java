@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Properties;
 
 /**
- * TODO
+ * 解析配置文件
  *
  * @author : Pikaman
  * @version : 1.0.0

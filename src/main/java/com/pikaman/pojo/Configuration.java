@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * TODO
+ * 核心配置类：对应sqlMapConfig.xml
  *
  * @author : Pikaman
  * @version : 1.0.0

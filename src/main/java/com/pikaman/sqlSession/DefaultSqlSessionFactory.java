@@ -3,7 +3,7 @@ package com.pikaman.sqlSession;
 import com.pikaman.pojo.Configuration;
 
 /**
- * TODO
+ * 创建sqlSessionFactory对象 生产 sqlSession
  *
  * @author : Pikaman
  * @version : 1.0.0

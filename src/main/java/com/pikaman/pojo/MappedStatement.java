@@ -1,7 +1,7 @@
 package com.pikaman.pojo;
 
 /**
- * TODO
+ * 映射配置类，对应mapper.xml
  *
  * @author : Pikaman
  * @version : 1.0.0

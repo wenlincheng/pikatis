@@ -3,8 +3,7 @@ package com.pikaman.io;
 import java.io.InputStream;
 
 /**
- * TODO
- *
+ * 读取配置文件
  * @author : Pikaman
  * @version : 1.0.0
  * @date : 2020/9/10 8:19 下午

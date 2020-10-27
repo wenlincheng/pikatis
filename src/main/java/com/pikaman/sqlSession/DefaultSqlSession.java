@@ -40,6 +40,13 @@ public class DefaultSqlSession implements SqlSession {
         }
     }
 
+    /**
+     * 获取mapper的代理对象
+     *
+     * @param mapperClass
+     * @throws
+     * @return T
+     */
     @Override
     public <T> T getMapper(Class<?> mapperClass) {
 
